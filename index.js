@@ -18,3 +18,5 @@ function appendKitten(name){
   return newArray
 }
 //Arrays destructivelyRemoveLastKitten() removes the last kitten from the kittens array:
+
+//Arrays destructivelyRemoveFirstKitten() removes the First kitten from the kittens array:
