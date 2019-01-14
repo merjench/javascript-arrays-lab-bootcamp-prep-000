@@ -6,4 +6,4 @@ function destructivelyAppendKitten(name){
  kittens.push(name)
  return kittens
 }
-//
+//Arrays destructivelyPrependKitten(name) prepends a kitten to the beginningof the kittens array:
