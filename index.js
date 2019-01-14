@@ -12,3 +12,8 @@ function destructivelyPrependKitten(name){
  return kittens;
 }
 //Arrays destructivelyRemoveLastKitten() removes the last kitten from the kittens array:
+function appendKitten(name){
+  var newArray = kittens.slice();
+  newArray.push(name)
+  return newArray
+}
