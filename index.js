@@ -17,3 +17,4 @@ function appendKitten(name){
   newArray.push(name)
   return newArray
 }
+//Arrays destructivelyRemoveLastKitten() removes the last kitten from the kittens array:
