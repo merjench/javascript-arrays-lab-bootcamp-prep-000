@@ -9,7 +9,4 @@ function destructivelyPrependKitten(name){
  kittens.unshift(name)
  return kittens;
 }
-function appendKitten(name){
-  kitten.shift(name)
-  return kittens;
-}
+console.log(kittens.concat());
