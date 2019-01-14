@@ -14,6 +14,3 @@ function appendKitten(name){
   newArray.push(name)
   return newArray
 }
-fucntion prependKitten(name){
-  var removed =  
-}
