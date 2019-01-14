@@ -9,4 +9,10 @@ function destructivelyPrependKitten(name){
  kittens.unshift(name)
  return kittens;
 }
-console.log(kittens.slice())
+function appendKitten(name){
+  var newArray = kittens.slice();
+  // or ES6 way
+  // var newArray = [...kittens];
+  newArray.push(name)
+  return newArray
+}
