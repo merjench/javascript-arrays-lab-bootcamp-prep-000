@@ -14,6 +14,6 @@ function appendKitten(name){
   newArray.push(name)
   return newArray
 }
-function removeLastKitten(name){
-  console.log(kittens.slice(3));
+fucntion prependKitten(name){
+  var remove = 
 }
