@@ -15,5 +15,5 @@ function appendKitten(name){
   return newArray
 }
 fucntion prependKitten(name){
-  var remove = 
+  var removed =  
 }
