@@ -20,3 +20,5 @@ function appendKitten(name){
 //Arrays destructivelyRemoveLastKitten() removes the last kitten from the kittens array:
 
 //Arrays destructivelyRemoveFirstKitten() removes the First kitten from the kittens array:
+
+// Arrays prependKitten(name) prepends a kitten to the kittens array and returns a new array, leaving the kittens array unchanged:
