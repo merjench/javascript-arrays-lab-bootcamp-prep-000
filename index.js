@@ -15,6 +15,6 @@ function appendKitten(name){
   return newArray
 }
 function removeLastKitten(name){
-  kitten.shift(name)
+  kitten.shift(3)
   return kittens;
 }
